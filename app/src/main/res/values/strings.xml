@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagicSqureTest</string>
+    <string name="user_input_hint">Type a number</string>
+    <string name="btn_start_magic_square">Start Magic Square</string>
+    <string name="toast_empty_user_input">Please type an odd number to generate a magic square for!</string>
+    <string name="title_activity_magic_square">Magic Square Result</string>
+</resources>
